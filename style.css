@@ -1,0 +1,49 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #00ffff;
+    cursor: pointer;
+    
+}
+sub{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #00ffff;
+    cursor: pointer;
+    
+}
+add{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #00ffff;
+    cursor: pointer;
+    
+}
+reset{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #00ffff;
+    cursor: pointer;
+    
+}
+.main{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+    align-items: center;
+    width: 200px;
+}
